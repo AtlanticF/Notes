@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "50be4c237d4ebccd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc5d8ef6b2611843",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JAVA/Logback.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "725af8c8e305fa64",
+    "type": "split",
+    "children": [
+      {
+        "id": "9451da2f58f51b8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5de49867fa693db5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bbb4c19acec64fc7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313
+  },
+  "right": {
+    "id": "a4b1fcba85a68002",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c879a2ab7f1c6e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ce7ef3df09c769d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JAVA/Logback.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "JAVA/Logback.md",
+    "零散知识点.md",
+    "计算机基础/操作系统/计算机体系结构.md",
+    "JAVA/Untitled.md",
+    "一些规范.md",
+    "乐理基础/音和音高.md",
+    "乐理基础/音律.md",
+    "支付系统设计/支付概述.md",
+    "支付系统设计/Untitled.md"
+  ]
+}
